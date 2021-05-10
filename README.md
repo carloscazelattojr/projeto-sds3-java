@@ -1,24 +1,26 @@
-## Bootcamp: Semana Spring React/Java com DevSuperior.
+## Bootcamp: Semana Spring React/Java
 
 Projeto DSVendas 
 
 Back-End desenvolvido com Spring Boot Java e hospedado no Heroku.
 Front-End desenvolvido em React e hospedado na Netlify.
 
+
 ## API's
 
 Back-End Heroku: https://sds3-cjr.herokuapp.com
 Front-End Netlify: https://cjr-dsvendas.netlify.app
 
- 
-## Bibliotecas utilizadas
-
-  Back-End: `Spring` `Java`
-  Front-End: `React` `Typescript` `Axios`
-  
 
 ## APP
   https://cjr-dsvendas.netlify.app
+
+
+## Tecnologias utilizadas
+
+  Back-End: `Spring` `Java` `Heroku`
+  Front-End: `React` `Typescript` `Axios` `Netlify`
+ 
 
 ## Imagens do projeto
 
