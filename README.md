@@ -30,7 +30,7 @@ Front-End Netlify: https://cjr-dsvendas.netlify.app
 Tela Principal 
 
 <h1 align="center">
-    <img alt="DSVendas" title="#Covid19" src="https://github.com/carlosjunior1983/projeto-sds3-java/blob/master/img-git/Site.PNG"  /><br>
+    <img alt="DSVendas" title="#Covid19" src="https://github.com/carloscazelattojr/projeto-sds3-java/blob/master/img-git/Site.PNG"  /><br>
 </h1>
 
 
